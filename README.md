@@ -5,6 +5,11 @@ Employee Management System
 ## What is this?
 This is a CMS console application.  This application allows you to add, view, update or delete employee information.  
 
+
+
+## Walkthrough Video 
+https://drive.google.com/file/d/1LZq1tmE8P2OegmkDh-lkdeo1TSylcRgF/view?usp=sharing
+
 ## User story
 ```
 As a business owner
@@ -19,6 +24,13 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 * mysql
 * inquirer
 * node.js
+
+
+
+# License
+
+## ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
+
 
 ## How does the console application work?
 * Step 1: Right click on "server.js" and select "open in terminal"
